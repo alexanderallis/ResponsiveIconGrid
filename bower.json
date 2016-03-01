@@ -1,0 +1,22 @@
+{
+  "name": "ResponsiveIconGrid",
+  "homepage": "https://github.com/alexanderallis/Node_School_Exercises",
+  "authors": [
+    "alexanderallis <alexandreallis@gmail.com>"
+  ],
+  "description": "An exercise in responsive icon grids, using Sass primarily.",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
